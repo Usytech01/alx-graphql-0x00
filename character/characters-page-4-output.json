@@ -1,0 +1,10 @@
+{
+    "data": {
+        "characters": {
+            "results": [
+                { "id": "62", "name": "Cynthia Little Girl", "status": "unknown", "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg" },
+                { "id": "64", "name": "cynthia", "status": "unknown", "image":  "https://rickandmortyapi.com/api/character/avatar/62.jpeg" }
+            ]
+        }
+    }
+}
