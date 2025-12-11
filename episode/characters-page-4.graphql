@@ -1,10 +1,10 @@
 query {
-  episodes(page: 3) {
+  characters(page: 4) {
     results {
       id
       name
-      air_date
-      episode
+      status
+      image
     }
   }
 }
